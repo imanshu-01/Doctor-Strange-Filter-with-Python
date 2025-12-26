@@ -1,0 +1,23 @@
+{
+  "camera": {
+    "device_id": 0,
+    "width": 1280,
+    "height": 720
+  },
+
+  "overlay": {
+    "inner_circle_path": "Assets/inner_circles/orange.png",
+    "outer_circle_path": "Assets/outer_circles/orange.png",
+    "shield_size_multiplier": 2.5,
+    "rotation_degree_increment": 3
+  },
+
+  "line_settings": {
+    "color": [0, 255, 255],
+    "thickness": 2
+  },
+
+  "keybindings": {
+    "quit_key": "q"
+  }
+}
