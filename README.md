@@ -67,7 +67,7 @@ python main.py
 </p>
 
 <p align="center">
-  <video src="https://github.com/imanshu-01/Doctor-Strange-Filter-with-Python/assets/IMG_5652.MOV.mp4" controls width="600"></video>
+  <a href="https://github.com/user-attachments/assets/d6ee4974-9ff5-4df2-b97c-038c932548f8">🎬 Watch Demo Video</a>
 </p>
 
 
