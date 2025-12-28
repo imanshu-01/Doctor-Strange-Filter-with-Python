@@ -67,7 +67,7 @@ python main.py
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arslanex/Doctor-Strange-Filter/assets/44752389/c2e8a8bb-c874-4dd5-8721-8ce3ca51d8b8">🎬 Watch Demo Video</a>
+  <a href="<!-- Failed to upload "IMG_5652.MOV" -->">🎬 Watch Demo Video</a>
 </p>
 
 ---
